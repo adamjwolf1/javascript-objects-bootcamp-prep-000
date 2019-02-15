@@ -1,1 +1,1 @@
-var playlist = {
+var playlist = {Tom Petty: "The Waiting"}
